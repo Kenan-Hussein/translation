@@ -9,37 +9,22 @@
 {
     "data": {
         "itemId": "",
-        "storeCategoryName": {
-            "lang": "",
-            "value": ""
-        },
-        "description": {
-            "lang": "",
-            "value": ""
-        }
+        "lang": "",
+        "storeCategoryName": "",
+        "description": ""
     },
     "translate": [
         {
             "itemId": "",
-            "storeCategoryName": {
-                "lang": "",
-                "value": ""
-            },
-            "description": {
-                "lang": "",
-                "value": ""
-            }
+            "lang": "",
+            "storeCategoryName": "",
+            "description": ""
         },
         {
             "itemId": "",
-            "storeCategoryName": {
-                "lang": "",
-                "value": ""
-            },
-            "description": {
-                "lang": "",
-                "value": ""
-            }
+            "lang": "",
+            "storeCategoryName": "",
+            "description": ""
         }
     ]
 }
