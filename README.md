@@ -5,10 +5,21 @@
 - It will help detrmine wheather should save or update this item in the translate table for this item.
 - 'itemId' will be use for update or delete
 
-
-
-    {
-        "data": {
+```json
+{
+    "data": {
+        "itemId": "",
+        "storeCategoryName": {
+            "lang": "",
+            "value": ""
+        },
+        "description": {
+            "lang": "",
+            "value": ""
+        }
+    },
+    "translate": [
+        {
             "itemId": "",
             "storeCategoryName": {
                 "lang": "",
@@ -19,28 +30,17 @@
                 "value": ""
             }
         },
-        "translate": [
-            {
-                "itemId": "",
-                "storeCategoryName": {
-                    "lang": "",
-                    "value": ""
-                },
-                "description": {
-                    "lang": "",
-                    "value": ""
-                }
+        {
+            "itemId": "",
+            "storeCategoryName": {
+                "lang": "",
+                "value": ""
             },
-            {
-                "itemId": "",
-                "storeCategoryName": {
-                    "lang": "",
-                    "value": ""
-                },
-                "description": {
-                    "lang": "",
-                    "value": ""
-                }
+            "description": {
+                "lang": "",
+                "value": ""
             }
-        ]
-    }
+        }
+    ]
+}
+```
